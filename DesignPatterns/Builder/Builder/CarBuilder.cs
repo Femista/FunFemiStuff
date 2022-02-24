@@ -5,7 +5,7 @@ using Builder.Product;
 
 namespace Builder.Builder
 {
-    class CarBuilder : IVehicleBuilder
+    class TonkaTruckBuilder : IVehicleBuilder
     {
         private Car _car;
 

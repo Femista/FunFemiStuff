@@ -2,7 +2,7 @@
 
 namespace Builder.Builder
 {
-    public class CarManualBuilder : IVehicleBuilder
+    public class TonkaTruckManualBuilder : IVehicleBuilder
     {
         private CarManual _carManual;
 
