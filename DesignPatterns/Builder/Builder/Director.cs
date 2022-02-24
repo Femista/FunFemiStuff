@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Builder.Builder
 {
-    class Director
+    class Blehrector
     {
         public void MakeSuv(IVehicleBuilder builder)
         {
