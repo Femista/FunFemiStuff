@@ -7,7 +7,7 @@ namespace Factory.Creator
         public void Render()
         {
             var okButton = CreateButton();
-            okButton.OnClick("Close Dialog");
+            okButton.OnClick("Close Dialoggg");
             okButton.Render();
         }
 
