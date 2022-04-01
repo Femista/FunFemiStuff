@@ -10,7 +10,7 @@ namespace Singleton
 
         private Database()
         {
-            Console.WriteLine("Database Created");
+            Console.WriteLine("Database Created!");
         }
 
         public static Database GetInstance()
